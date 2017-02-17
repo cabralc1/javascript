@@ -3,7 +3,7 @@ var click_me = document.getElementById("click_me");
 click_me.addEventListener('click', fnClickMe);
 
 function fnClickMe(){
-	alert("TESTE");
+	alert("TESTE MENSAGEM");
 }
 
 
