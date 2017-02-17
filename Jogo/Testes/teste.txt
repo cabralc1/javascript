@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 01 simulando texto dentro do arquivo
+=======
+simulando texto dentro do arquivo
+>>>>>>> c0ddc4773f0e928ef85149913ed8379b7960e023
